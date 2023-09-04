@@ -1,0 +1,15 @@
+/* estilos.css */
+
+.redes-sociales {
+    font-size: 100px; /* Tamaño de los iconos */
+}
+
+.redes-sociales a {
+    text-decoration: none; /* Quita el subrayado de los enlaces */
+    color: #333; /* Color de los iconos no seleccionados */
+    margin-right: 30px; /* Espaciado entre los iconos */
+}
+
+.redes-sociales a:hover {
+    color: #007bff; /* Cambia el color al pasar el mouse */
+}
